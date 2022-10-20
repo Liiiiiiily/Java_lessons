@@ -32,7 +32,7 @@ public class HomeWorkApp {
     }
 
     public static void printColor() {
-        int value = 7;
+        int value = 8;
 
         if (value <= 0) {
             System.out.println("Красный");
